@@ -8,7 +8,7 @@ crash.log
 *.exe
 *.zip
 *.tar.gz
-
+dump*
 # Terraform lock (optional keep or ignore)
 .terraform.lock.hcl
 
